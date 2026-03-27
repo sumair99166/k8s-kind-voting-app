@@ -1,20 +1,20 @@
 🧰 Tech Stack
 
-Kubernetes (Kind)
+* Kubernetes (Kind)
 
-Argo CD (GitOps)
+* Argo CD (GitOps)
 
-Docker
+* Docker
 
-Kubernetes Dashboard
+* Kubernetes Dashboard
 
 ⚔️ Challenges Solved
 
-Managed Kubernetes configuration complexity
+* Managed Kubernetes configuration complexity
 
-Implemented GitOps workflow using Argo CD
+* Implemented GitOps workflow using Argo CD
 
-Solved deployment sync issues
+* Solved deployment sync issues
 
-Enabled self-healing and auto-sync
+* Enabled self-healing and auto-sync
 
